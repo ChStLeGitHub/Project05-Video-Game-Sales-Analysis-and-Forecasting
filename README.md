@@ -1,6 +1,6 @@
 # Project 05: 1st Integrated Project
 
-**Objective:** Conduct a comprehensive analysis of video game sales data for Ice, an online, worldwide video game store, to assist stakeholders with predicting the most successful video game releases for the upcoming calendar year.
+**Objective:** To conduct a comprehensive analysis of video game sales data for Ice, an online, worldwide video game store, to assist stakeholders with predicting the most successful video game releases for the upcoming calendar year.
 
 **Accomplishments:** Based on the data provided, I was able to conclude that at the time the PS4 was, by far, the best selling home platform; that the Nintendo 3DS was, by far, the best selling handheld platform; and that there was virtually no correlation between reviews (from either professional critics or everyday users) and global video game sales. 
 
